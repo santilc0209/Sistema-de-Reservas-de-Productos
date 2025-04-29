@@ -4,7 +4,7 @@ Este proyecto es una aplicación web para la gestión de reservas de productos.
 
 ## Vista previa
 
-![Pantalla Principal](/Users/santi/Desktop/Captura de pantalla 2025-04-28 a la(s) 8.36.38 p.m.)
+<img width="1440" alt="Captura de pantalla 2025-04-28 a la(s) 8 36 38 p m" src="https://github.com/user-attachments/assets/a1983bbf-f312-4c2a-9084-96195fdb618a" />
 
 ## Tecnologías usadas
 
